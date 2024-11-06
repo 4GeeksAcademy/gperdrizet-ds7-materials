@@ -49,18 +49,18 @@ There are some slight variations and tips given for each individual project, but
 4. Implement a feature selection strategy.
 5. Test the results of your feature selection with cross validation.
 
-### 3. Model training
+## 3. Model training
 
 1. Implement the model with defaults and cross-validate it on the fully explored/cleaned data.
 
-### 4. Model optimization
+## 4. Model optimization
 
 1. Use grid or random search to tune the model's hyperparameters.
 2. Cross-validate the model with the optimized hyperparameters to estimate out-of-sample performance.
 3. Re-train the optimized model on the complete fully explored/cleaned training data.
 4. Evaluate the model's performance on the test set.
 
-### Other tips for good, professional looking notebooks
+## Other tips for good, professional looking notebooks
 
 1. Comment your code - use the '#' symbol to add comments to code blocks. Comments should be short and succinct, telling the reader what each call does.
 2. Add explanations using Markdown text. As you move through the project, explain what you are doing at each step and why as well as any observations and conclusions.
