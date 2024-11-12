@@ -7,6 +7,7 @@
 1. [Decision tree MVP](https://github.com/4GeeksAcademy/gperdrizet-decision-tree-project/blob/main/src/mvp.ipynb)
 2. [Random forest MVP](https://github.com/4GeeksAcademy/gperdrizet-random-forest-project/blob/main/src/mvp.ipynb)
 3. [Naive bayes MVP](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/mvp.ipynb)
+4. [k-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-K-nearest-neighbors-project/blob/main/src/mvp.ipynb)
 
 ## 2. Instructor solutions
 
