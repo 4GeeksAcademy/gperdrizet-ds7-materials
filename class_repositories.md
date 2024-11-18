@@ -10,6 +10,7 @@
 4. [Naive bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/mvp.ipynb)
 5. [k-nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-K-nearest-neighbors-project/blob/main/src/mvp.ipynb)
 6. [k-means](https://github.com/4GeeksAcademy/gperdrizet-k-means-project/blob/main/src/mvp.ipynb)
+7. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/mvp.ipynb)
 
 ## 2. Instructor solutions
 
