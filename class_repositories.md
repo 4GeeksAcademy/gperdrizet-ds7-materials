@@ -12,6 +12,7 @@
 6. [k-means](https://github.com/4GeeksAcademy/gperdrizet-k-means-project/blob/main/src/mvp.ipynb)
 7. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/mvp.ipynb)
 8. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification-project/blob/main/src/mvp.ipynb)
+9. [Natural language processing](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/mvp.ipynb)
 
 ## 2. Instructor solutions
 
@@ -20,4 +21,8 @@ Solutions will be uploaded after we have worked on the project in class - they a
 1. [Logistic regression](https://github.com/4GeeksAcademy/gperdrizet-logistic-regression-project/blob/main/src/solution.ipynb)
 2. [Decision tree](https://github.com/4GeeksAcademy/gperdrizet-decision-tree-project/blob/main/src/solution.ipynb)
 3. Random forest
-4. Naive bayes
+4. [Naive bayes](https://github.com/4GeeksAcademy/gperdrizet-naive-bayes-project/blob/main/src/solution.ipynb)
+5. [K nearest neighbors](https://github.com/4GeeksAcademy/gperdrizet-k-nearest-neighbors-project/blob/main/src/solution.ipynb)
+6. [K means](https://github.com/4GeeksAcademy/gperdrizet-k-means-project/blob/main/src/solution.ipynb)
+7. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/solution.ipynb)
+8. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification-project/blob/main/src/gperdrizet_solution.ipynb)
