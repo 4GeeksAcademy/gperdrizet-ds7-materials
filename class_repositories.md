@@ -13,6 +13,8 @@
 7. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/mvp.ipynb)
 8. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification-project/blob/main/src/mvp.ipynb)
 9. [Natural language processing](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/mvp.ipynb)
+10. [Flask web app](https://github.com/4GeeksAcademy/gperdrizet-ML-web-app-using-Flask)
+11. [Streamlit web app](https://github.com/4GeeksAcademy/gperdrizet-ML-web-app-using-streamlit)
 
 ## 2. Instructor solutions
 
@@ -26,3 +28,4 @@ Solutions will be uploaded after we have worked on the project in class - they a
 6. [K means](https://github.com/4GeeksAcademy/gperdrizet-k-means-project/blob/main/src/solution.ipynb)
 7. [Time series](https://github.com/4GeeksAcademy/gperdrizet-time-series-project/blob/main/src/solution.ipynb)
 8. [Image classification](https://github.com/4GeeksAcademy/gperdrizet-image-classification-project/blob/main/src/gperdrizet_solution.ipynb)
+9. [Natural language processing](https://github.com/4GeeksAcademy/gperdrizet-NLP-project/blob/main/src/perdrizet_solution.ipynb)
