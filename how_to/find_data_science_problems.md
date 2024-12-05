@@ -9,7 +9,7 @@ This is where it gets fun. For the final project, you will need to identify an i
 Sky is the limit here - anything you can (legally) get your hands on. It's 2024 and pretty much everything electronic produces a constant stream of data. In general, look for a large pre-existing dataset that is available to the public. A couple of things to avoid:
 
 1. Large scale web scraping is not really a thing in 2024. If the people who own the data want you to have access, they will publish it or provide an API. If not, and you start crawling pages with BeautifulSoup, you're a DOS attack and your IP address will get banned.
-2. 'Hot' data - and by that I mean data that is updated quickly and regularly. You can do very cool data science with these types of datasources (think stock tickers, traffic camera data). But live analysis of a hot data source adds a level of complexity that is beyond the scope of this course.
+2. 'Hot' data - and by that I mean data that is updated quickly and regularly. You can do very cool data science with these types of data sources (think stock tickers, traffic cameras, etc). But live analysis of a hot data source adds a level of complexity that is beyond the scope of this course.
 
 In general, for sources, look at government agencies, public interest groups, non-profits, university libraries, research institutes etc. Entities that are publicly funded are much more likely to give you access to their data for free. But some companies, like Kaggle, also curate and proved datasets. Here are some examples to get you started:
 
