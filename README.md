@@ -2,6 +2,41 @@
 
 Collection of notes, documentation and instructor solutions for Data Science 7, fall 2024.
 
+## 12/09 Update
+
+Tonight marks the launch of the final project. I know many of you still have some catching up to do, so you will need to start splitting your time. Luckily, we need to choose topics first, so you have a few days until the heavy coding work begins.
+
+The first goal is to choose a topic/problem/question and identify a data source. To that end, I have set up a Google doc for each group with a template for project ideas. Plan to contribute at least one idea by Friday, we will workshop the ideas together and select the best one.
+
+### Final project group 1
+
+Topic brainstorming document [here](https://docs.google.com/document/d/1aZvJyrSN9MTIANx9X-_BD4qjc__Q19_s16uzxp3tHJA/edit?usp=sharing).
+
+- Kelsey Low
+- Trevor Kortum
+- Les Desrameaux
+- Jasmin LaRose
+- Mahamadou Diallo
+
+### Final project group 2
+
+Topic brainstorming document [here](https://docs.google.com/document/d/1kFNVrP7kYwRdjAz4zSRzsfznck_jjQN8nLduA2WyeBM/edit?usp=sharing).
+
+- Maria Rodrigues
+- Aron Jordan
+- Aron Matthews
+- Akash Alamuthu
+
+The short overview of the final project is as follows:
+
+1. We will split the class into two groups, each will work collaboratively on a single final project.
+2. The topic can be anything that uses data science and results in deployable/usable/functioning final product.
+3. The topic is up to you and your group to decide.
+4. We will spend the next 7 weeks working on the project together.
+5. On the last day, you will present your project to the 4Geeks community (invite your family and friends!).
+
+The projects will be documented on the 4Geeks site and are a great show piece for your portfolio. The final project is an opportunity to push your data and engineering skills and show of what you have learned to prospective employers.
+
 ## 12/04 Update
 
 As discussed in class last night, here is the plan for the end of this week and into the next. With a view toward getting started on the final project, Friday will be a catchup day in class. Before then, try to spend at least one hour on each of the following projects, if you have not completed them already:
