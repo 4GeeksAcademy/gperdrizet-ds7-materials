@@ -35,7 +35,7 @@ The short overview of the final project is as follows:
 4. We will spend the next 7 weeks working on the project together.
 5. On the last day, you will present your project to the 4Geeks community (invite your family and friends!).
 
-The projects will be documented on the 4Geeks site and are a great show piece for your portfolio. The final project is an opportunity to push your data and engineering skills and show of what you have learned to prospective employers.
+The project will be documented on the 4Geeks site and is a great showpiece for your portfolio. The final project is an opportunity to push your data and engineering skills and show of what you have learned to prospective employers.
 
 ## 12/04 Update
 
