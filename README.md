@@ -4,9 +4,9 @@ Collection of notes, documentation and instructor solutions for Data Science 7, 
 
 ## 12/16 Update
 
-- This Friday (20th) last meeting before break. Next will be Monday Jan. 6th.
-- Wed. finalize project groups and final topics.
-- Fri. GitHub set-up/tooling/data wrangling.
+- This Friday (20th) last meeting before break. Next class after that will be Monday Jan. 6th.
+- Wednesday (18th) finalize project groups and final topics.
+- Friday (20th) GitHub set-up for dev tooling/data wrangling and collaboration.
 
 ## 12/09 Update
 
