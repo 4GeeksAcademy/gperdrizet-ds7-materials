@@ -2,6 +2,12 @@
 
 Collection of notes, documentation and instructor solutions for Data Science 7, fall 2024.
 
+## 12/16 Update
+
+- This Friday (20th) last meeting before break. Next will be Monday Jan. 6th.
+- Wed. finalize project groups and final topics.
+- Fri. GitHub set-up/tooling/data wrangling.
+
 ## 12/09 Update
 
 Tonight marks the launch of the final project. I know many of you still have some catching up to do, so you will need to start splitting your time. Luckily, we need to choose topics first, so you have a few days until the heavy coding work begins.
