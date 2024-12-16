@@ -2,6 +2,12 @@
 
 Collection of notes, documentation and instructor solutions for Data Science 7, fall 2024.
 
+## 12/16 Update
+
+- This Friday (20th) last meeting before break. Next class after that will be Monday Jan. 6th.
+- Wednesday (18th) finalize project groups and final topics.
+- Friday (20th) GitHub set-up for dev tooling/data wrangling and collaboration.
+
 ## 12/09 Update
 
 Tonight marks the launch of the final project. I know many of you still have some catching up to do, so you will need to start splitting your time. Luckily, we need to choose topics first, so you have a few days until the heavy coding work begins.
@@ -35,7 +41,7 @@ The short overview of the final project is as follows:
 4. We will spend the next 7 weeks working on the project together.
 5. On the last day, you will present your project to the 4Geeks community (invite your family and friends!).
 
-The projects will be documented on the 4Geeks site and are a great show piece for your portfolio. The final project is an opportunity to push your data and engineering skills and show of what you have learned to prospective employers.
+The project will be documented on the 4Geeks site and is a great showpiece for your portfolio. The final project is an opportunity to push your data and engineering skills and show of what you have learned to prospective employers.
 
 ## 12/04 Update
 
