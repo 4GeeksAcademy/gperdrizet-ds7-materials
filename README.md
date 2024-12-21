@@ -8,36 +8,39 @@ Here are the update final project groups/topics, along with links to each group'
 
 ### Natural disaster risk
 
-#### [Parent GitHub repo](https://github.com/4GeeksAcademy/natural_disasters)
-#### [Group Google Drive folder](https://drive.google.com/drive/folders/1_QY7X5e19vf7A4BAtHCXFGplsmM25tcv?usp=sharing)
-
 **Group members**:
 
 - Trevor Kortum
 - Kelsey Low
-- Les Desrameaux
+
+[Parent GitHub repo](https://github.com/4GeeksAcademy/natural_disasters)
+
+[Group Google Drive folder](https://drive.google.com/drive/folders/1_QY7X5e19vf7A4BAtHCXFGplsmM25tcv?usp=sharing)
 
 ### Fantasy sports
-
-#### [Parent GitHub repo](https://github.com/4GeeksAcademy/fantasy_sports_assistant)
-#### [Group Google Drive folder](https://drive.google.com/drive/folders/1boyNLPN_CF28uBazSPiZ_rWW6GjgO-e_?usp=sharing)
 
 **Group members**:
 
 - Aaron Jordan
 - Maria Rodrigues
 - Akash Alamuthu
+- Les Desrameaux
+
+[Parent GitHub repo](https://github.com/4GeeksAcademy/fantasy_sports_assistant)
+
+[Group Google Drive folder](https://drive.google.com/drive/folders/1boyNLPN_CF28uBazSPiZ_rWW6GjgO-e_?usp=sharing)
 
 ### Breast cancer diagnosis
-
-#### [Parent GitHub repo](https://github.com/4GeeksAcademy/breast_cancer_diagnosis)
-#### [Group Google Drive folder](https://drive.google.com/drive/folders/1edUn8WNMcRY6AAbv3hiuBXU7heNTtpub?usp=sharing)
 
 **Group members**:
 
 - Mahamadou Diallo
 - Aaron Matthews
 - Jasmine LaRose
+
+[Parent GitHub repo](https://github.com/4GeeksAcademy/breast_cancer_diagnosis)
+
+[Group Google Drive folder](https://drive.google.com/drive/folders/1edUn8WNMcRY6AAbv3hiuBXU7heNTtpub?usp=sharing)
 
 ## 12/16 Update
 
