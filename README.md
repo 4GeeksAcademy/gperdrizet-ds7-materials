@@ -2,6 +2,43 @@
 
 Collection of notes, documentation and instructor solutions for Data Science 7, fall 2024.
 
+## 12/20 Update
+
+Here are the update final project groups/topics, along with links to each group's central GitHub repository and shared Google Drive folder.
+
+### Natural disaster risk
+
+#### [Parent GitHub repo](https://github.com/4GeeksAcademy/natural_disasters)
+#### [Group Google Drive folder](https://drive.google.com/drive/folders/1_QY7X5e19vf7A4BAtHCXFGplsmM25tcv?usp=sharing)
+
+**Group members**:
+
+- Trevor Kortum
+- Kelsey Low
+- Les Desrameaux
+
+### Fantasy sports
+
+#### [Parent GitHub repo](https://github.com/4GeeksAcademy/fantasy_sports_assistant)
+#### [Group Google Drive folder](https://drive.google.com/drive/folders/1boyNLPN_CF28uBazSPiZ_rWW6GjgO-e_?usp=sharing)
+
+**Group members**:
+
+- Aaron Jordan
+- Maria Rodrigues
+- Akash Alamuthu
+
+### Breast cancer diagnosis
+
+#### [Parent GitHub repo](https://github.com/4GeeksAcademy/breast_cancer_diagnosis)
+#### [Group Google Drive folder](https://drive.google.com/drive/folders/1edUn8WNMcRY6AAbv3hiuBXU7heNTtpub?usp=sharing)
+
+**Group members**:
+
+- Mahamadou Diallo
+- Aaron Matthews
+- Jasmine LaRose
+
 ## 12/16 Update
 
 - This Friday (20th) last meeting before break. Next class after that will be Monday Jan. 6th.
