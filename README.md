@@ -2,6 +2,27 @@
 
 Collection of notes, documentation and instructor solutions for Data Science 7, fall 2024.
 
+## 1/6 Update
+
+Welcome back from break! Here are the points we discussed at the start of class:
+
+1. If you haven't done so already, you need to make a fork of your group's parent repository and add yourself to the contributors list (see below for links).
+2. When you sit down to work on the final project, **always** update your fork from the parent repo so you have the latest changes.
+3. Professionalize your GitHub profile. Upload a head shot & fill out your profile with your real name. Also, update your name on your final project's contributors list.
+4. When starting to experiment in the project, make an experimentation notebook in the project's `notebooks` directory using the naming convention: `lastname_notebook_purpose.ipynb`
+5. Remember to commit and push your changes to your own fork of the repo, don't use a codespace image as a way to "save" your work - though in some cases, it may make sense to keep your codespace alive.
+
+Plan for today is to finalize the project road maps and get our data loaded so that the real work can begin.
+
+The roadmap should contain the components needed to complete the project and some ideas about how to address each one. From there we can do two things:
+
+>1. Make a timeline.
+>2. Decide how we will collaborate and divide the work up.
+
+Projects need to be done on the 27th of this month, so we have exactly 3 weeks to complete them. We will plan to have working prototypes in two weeks. This gives us an extra week to work on improvements and the pitch presentation and have extra time for any issues that arise along the way.
+
+The pace will be fast so remember to focus on the 'MVP' or minimum viable product at each stage - i.e. you could spend weeks on EDA but if you do, you won't finish the project. It's better to get a minimal functioning EDA in place within the timeline and move on. Then you can go back and improve on it late if there is time and the extra work is warranted.
+
 ## 12/20 Update
 
 Here are the updated final project groups/topics, along with links to each group's central GitHub repository and shared Google Drive folder.
